@@ -3,7 +3,7 @@
 Bem-vindo ao Quiz de Pokémon! Este é um projeto simples desenvolvido para testar seus conhecimentos sobre os Pokémon.
 
 
-Como Jogar
+## Como Jogar
 1 Clone este repositório no seu computador.
 
 2 Abra o arquivo QuizPokemon.py no seu editor de código Python preferido.
@@ -15,7 +15,7 @@ Como Jogar
 5 No final do quiz, você receberá sua pontuação e feedback sobre suas respostas.
 
 
-Funcionalidades
+## Funcionalidades
 
 1 Perguntas variadas sobre os Pokémon.
 
