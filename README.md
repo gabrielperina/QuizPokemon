@@ -1,6 +1,6 @@
 # QuizPokemon
 
-Bem-vindo ao Quiz de Pokémon! Este é um projeto simples desenvolvido para testar seus conhecimentos sobre os Pokémon.
+Bem-vindo ao Quiz de Pokémon! Este é um projeto simples desenvolvido para testar seus conhecimentos sobre Pokémon.
 
 
 ## Como Jogar
