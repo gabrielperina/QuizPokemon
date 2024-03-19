@@ -8,7 +8,7 @@ Bem-vindo ao Quiz de Pokémon! Este é um projeto simples desenvolvido para test
 
 2 Abra o arquivo QuizPokemon.py no seu editor de código Python preferido.
 
-3 Execute o arquivo quiz.py no terminal ou na linha de comando.
+3 Execute o arquivo QuizPokemon.py no terminal ou na linha de comando.
 
 4 Responda às perguntas do quiz selecionando a opção correta.
 
